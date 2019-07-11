@@ -10,7 +10,7 @@ this is a new web
 
 ```Javascript
 
-let x = Person {
+let person =  {
 
 name : jack,
 lastname : marrison,
